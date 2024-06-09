@@ -19,7 +19,9 @@ This CLI tool allows you to retrieve your grades from the IIT Madras View grades
 
 2. Enter your IIT Madras username and password when prompted.
 
-3. The tool will attempt to log in and retrieve your grades. If successful, it will display your grades. Otherwise, it will show an error message.
+3. For password, create a password.txt file and enter the password there.
+
+4. The tool will attempt to log in and retrieve your grades. If successful, it will display your grades. Otherwise, it will show an error message.
 
 ## Notes
 - This tool is provided as-is and may not work in all scenarios. Please report any issues or bugs to the repository.
